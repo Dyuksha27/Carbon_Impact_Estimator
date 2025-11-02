@@ -1,7 +1,5 @@
 # Carbon_Impact_Estimator
 
-# Carbon Impact Estimator Dataset
-
 This repository contains the **Carbon Impact Estimator Dataset**, developed as part of a research project at **Netaji Subhas University of Technology (NSUT), Delhi, India**.  
 The dataset is designed to support studies on **product-level carbon footprint prediction** using machine learning.
 
