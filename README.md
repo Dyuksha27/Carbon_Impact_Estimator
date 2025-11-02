@@ -15,7 +15,7 @@ It includes attributes related to **production, packaging, and delivery**, such 
 - `Packaging_Type` – Material used for packaging  
 - `Supplier_Location`, `Warehouse_Location` – For calculating transport distance  
 - `Transport_Mode` – Type of delivery medium (e.g., road, air, ship)  
-- `Distance_km` – Distance between supplier and customer  
+- `Distance_km` – Distance in km  
 - `Product_Emissions`, `Packaging_Emissions`, `Delivery_Emissions` – Stage-wise CO₂e emissions  
 - `Total_Emissions` – Aggregated emission target variable (in kg CO₂e)
 
