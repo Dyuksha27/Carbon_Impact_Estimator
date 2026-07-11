@@ -44,7 +44,3 @@ The **Random Forest Regressor** achieved the best performance with:
 
 ---
 
-## Usage
-
-The dataset file is available as:  
-`Carbon_estimator_dataset.csv`
