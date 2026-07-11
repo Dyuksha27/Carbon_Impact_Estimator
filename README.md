@@ -38,6 +38,14 @@ The **Random Forest Regressor** achieved the best performance with:
 
 ---
 
+## Research Paper
+
+The dataset is associated with the following research paper:
+
+**IEEE Xplore:** https://ieeexplore.ieee.org/document/11565046
+
+---
+
 ## Usage
 
 The dataset file is available as:  
